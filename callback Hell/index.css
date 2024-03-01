@@ -1,0 +1,13 @@
+body{
+    
+   background-color:  #07553B;
+   color:#CED46A;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:250px auto;
+    
+}
+
